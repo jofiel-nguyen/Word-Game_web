@@ -1,4 +1,4 @@
-import { textNodes } from "./textNodes.js";
+import { textNodes } from "./src/textNodes.js";
 
 const titleElement = document.getElementById("title");
 const storyElement = document.getElementById("story");
