@@ -40,10 +40,9 @@ Here are some screenshots from Wrod-Game:
 - Word-Game-Web  developed by Jofiel.
 
 
-## Feedback and Support
-
-If you encounter any issues or have suggestions for improvement, feel free to reach out to the developer.
-
 ## Enjoy Your Adventure!
 
 Thank you for exploring the Word-Game-Web . Embark on this journey to uncover the developer's skills and experience like never before! 🚀
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
