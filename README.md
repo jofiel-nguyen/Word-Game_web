@@ -29,7 +29,7 @@ To begin your adventure:
 
 ## Screenshots
 
-Here are some screenshots from the Adventure Portfolio:
+Here are some screenshots from Wrod-Game:
 
 - Chapter 1: ![The Beginning](./assets/the-ordinary-world.jpg)
 - Chapter 2: ![The Call to Adventure](./assets/the-portal.jpg)
